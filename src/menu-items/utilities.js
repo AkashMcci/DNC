@@ -7,7 +7,7 @@ import InstallDesktopOutlinedIcon from '@mui/icons-material/InstallDesktopOutlin
 import AddHomeWorkSharpIcon from '@mui/icons-material/AddHomeWorkSharp';
 import PeopleAltSharpIcon from '@mui/icons-material/PeopleAltSharp';
 import AirlineStopsOutlinedIcon from '@mui/icons-material/AirlineStopsOutlined';
-
+import AccountCircleOutlinedIcon from '@mui/icons-material/AccountCircleOutlined';
 // constant
 const icons = {
     IconTypography,
@@ -58,7 +58,7 @@ const utilities = {
             title: 'Fayaz',
             type: 'item',
             url: '/org/fayaz',
-            icon: icons.AirlineStopsOutlinedIcon,
+            icon: icons.AccountCircleOutlinedIcon,
             breadcrumbs: false
         }
     ]
